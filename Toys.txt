@@ -1,0 +1,16 @@
+ToysStore2.Toys{id=1, name='Машинка', weight=40}
+ToysStore2.Toys{id=0, name='Кукла', weight=25}
+ToysStore2.Toys{id=3, name='Матрёшка', weight=65}
+ToysStore2.Toys{id=2, name='Робот', weight=3}
+ToysStore2.Toys{id=1, name='Машинка', weight=40}
+ToysStore2.Toys{id=3, name='Матрёшка', weight=65}
+ToysStore2.Toys{id=0, name='Кукла', weight=25}
+ToysStore2.Toys{id=2, name='Робот', weight=3}
+ToysStore2.Toys{id=0, name='Кукла', weight=25}
+ToysStore2.Toys{id=1, name='Машинка', weight=40}
+ToysStore2.Toys{id=3, name='Матрёшка', weight=65}
+ToysStore2.Toys{id=2, name='Робот', weight=3}
+ToysStore2.Toys{id=1, name='Машинка', weight=40}
+ToysStore2.Toys{id=3, name='Матрёшка', weight=65}
+ToysStore2.Toys{id=0, name='Кукла', weight=25}
+ToysStore2.Toys{id=2, name='Робот', weight=3}
